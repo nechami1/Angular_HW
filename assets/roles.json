@@ -1,0 +1,12 @@
+[{
+    "id": 1,
+    "role":"manager"
+  },
+  {
+    "id": 2,
+    "role":"team leader"
+  },
+  {
+    "id": 3,
+    "role":"worker"
+  }]

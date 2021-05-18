@@ -1,0 +1,22 @@
+[{
+    "name":"Avraham",
+    "id": 111,
+    "salary":30000,
+    "role":1
+  }, {
+    "name":"Yitzchak",
+    "id": 222,
+    "salary": 25000,
+    "role":2
+  }, {
+    "name":"Yaakov",
+    "id": 333,
+    "salary":10000 ,
+    "role":3
+  }, {
+    "name":"Moshe",
+    "id": 444,
+    "salary":20000,
+    "role":3
+  }]
+     
